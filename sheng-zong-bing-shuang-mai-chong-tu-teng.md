@@ -1,6 +1,6 @@
 # 圣宗 - 冰霜脉冲图腾
 
-_原文：_[https://www.pathofexile.com/forum/view-thread/2685450](https://www.pathofexile.com/forum/view-thread/2685450)
+_原文地址：_[https://www.pathofexile.com/forum/view-thread/2685450](https://www.pathofexile.com/forum/view-thread/2685450)
 
 ## 3.11（庄园赛季）改动总结
 
