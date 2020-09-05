@@ -15,15 +15,15 @@
 
 站撸卡鲁斯
 
-![](E:/poe_trans/POISON-SCOURGE_TOXIC-RAIN/pic/wave-20-kosis.gif)
+![](pic/wave-20-kosis.gif>)
 
 硬吃塑界者激光和砸地板
 
-![](E:/poe_trans/POISON-SCOURGE_TOXIC-RAIN/pic/Shaper.gif)
+![](pic/Shaper.gif>)
 
 硬吃希鲁斯激光、上层女王火圈
 
-![](E:/poe_trans/POISON-SCOURGE_TOXIC-RAIN/pic/Sirus-Atziri.gif)
+![](pic/Sirus-Atziri.gif>)
 
 
 
@@ -71,13 +71,13 @@
 
 ### 机制解读（必读！）
 
-![](E:/poe_trans/POISON-SCOURGE_TOXIC-RAIN/pic/build-mechanics-explained.png)
+![](pic/build-mechanics-explained.png>)
 
-![](E:\poe_trans\POISON-SCOURGE_TOXIC-RAIN\pic\Defensive-Setup.png)
+![](pic/Defensive-Setup.png>)
 
 当我们复合药剂生效时，从项链上的涂油天赋【百战伤痕】中获得护体效果。当生命回满时药剂便失效，也会失去护体效果，因此药剂上必须洗出魔力满时药剂效果仍持续的词缀。
 
-![](E:/poe_trans/POISON-SCOURGE_TOXIC-RAIN/pic/Offensive-setup-BlastRain.png)
+![](pic/Offensive-setup-BlastRain.png)
 
 不使用多重图腾来触发枯萎buff是因为图腾施法太慢而且在怪群中存活时间太短。爆裂箭雨可以第一时间施放且在目标身上触发枯萎状态，同时附加可观的伤害（T19 DPS40W），配合毒dot伤害十分有效。
 
