@@ -15,15 +15,15 @@
 
 站撸卡鲁斯
 
-![](pic/wave-20-kosis.gif>)
+![](pic/wave-20-kosis.gif)
 
 硬吃塑界者激光和砸地板
 
-![](pic/Shaper.gif>)
+![](pic/Shaper.gif)
 
 硬吃希鲁斯激光、上层女王火圈
 
-![](pic/Sirus-Atziri.gif>)
+![](pic/Sirus-Atziri.gif)
 
 
 
@@ -71,9 +71,9 @@
 
 ### 机制解读（必读！）
 
-![](pic/build-mechanics-explained.png>)
+![](pic/build-mechanics-explained.png)
 
-![](pic/Defensive-Setup.png>)
+![](pic/Defensive-Setup.png)
 
 当我们复合药剂生效时，从项链上的涂油天赋【百战伤痕】中获得护体效果。当生命回满时药剂便失效，也会失去护体效果，因此药剂上必须洗出魔力满时药剂效果仍持续的词缀。
 
