@@ -299,7 +299,7 @@
 
 ### 技能连法
 
-![](pic/gem.png)
+![](pic/Gem.png)
 
 
 
