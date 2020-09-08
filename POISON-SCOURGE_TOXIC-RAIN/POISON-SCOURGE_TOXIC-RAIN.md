@@ -1,6 +1,6 @@
 # 追猎者 天灾之箭/毒雨
 
-*原文地址：<https://www.pathofexile.com/forum/view-thread/2851574*>
+*原文地址：https://www.pathofexile.com/forum/view-thread/2851574*
 
 
 
