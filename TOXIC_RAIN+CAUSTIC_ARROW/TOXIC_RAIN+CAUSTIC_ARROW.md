@@ -106,7 +106,9 @@ https://pastebin.com/wPhukT5Z
 
 ![](pic/+3bow.png)
 
-这把弓相当地好做，具体步骤如下：![](pic/+3bow_Crafting.png)
+这把弓相当地好做，具体步骤如下：
+
+![](pic/+3bow_Crafting.png)
 
 #### +3/DoT伤弓：
 
