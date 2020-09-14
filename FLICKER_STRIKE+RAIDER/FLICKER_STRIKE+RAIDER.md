@@ -69,3 +69,12 @@ T16：https://www.youtube.com/watch?v=TB1gFj1Y4tE
 ![](pic/tree.png)
 
 ## 技能连法
+
+![](pic/Gem.png)
+
+
+
+## 技能机制
+
+### 闪打是如何运作的？
+
