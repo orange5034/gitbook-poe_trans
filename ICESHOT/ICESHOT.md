@@ -68,9 +68,10 @@ https://pastebin.com/XLV5GQk0
 
 【死亡之作】以及【乱矢之弦】都是不错的主手选择，【死亡之作】额外发射一根箭矢并提升暴击伤害，【乱矢之弦】给予高额inc伤，在有【逝日】药剂的情况下我更推荐【乱矢之弦】。
 
-<figure class="third">
-    <img src="E:\poe_trans\ICESHOT\pic\death's-opus.png" width="350"/><img src="E:\poe_trans\ICESHOT\pic\chin-sol.png" width="350"/>
-</figure>
+![](E:\poe_trans\ICESHOT\pic\chin-sol.png)
+
+![](E:\poe_trans\ICESHOT\pic\death's-opus.png)
+
 后期选择塑界底子的林野猎弓（极其昂贵）：
 
 ![](E:\poe_trans\ICESHOT\pic\thicketBow.png)
@@ -109,6 +110,6 @@ https://pastebin.com/XLV5GQk0
 
 我个人正在使用【大地之护】，这件衣服可能是游戏中最佳选择，因为可以保持最大数量的狂怒球与暴击球。但如果资金短缺的话，同样可以选择【西里的战衣】。
 
-<figure class="third">
-    <img src="E:\poe_trans\ICESHOT\pic\farrul's-fur.png" width="350"/><img src="E:\poe_trans\ICESHOT\pic\hyrri's-ire.png" width="350"/>
-</figure>
+![](E:\poe_trans\ICESHOT\pic\farrul's-fur.png)
+
+![](E:\poe_trans\ICESHOT\pic\hyrri's-ire.png)
