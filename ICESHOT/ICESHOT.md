@@ -70,7 +70,7 @@ https://pastebin.com/XLV5GQk0
 
 ![](pic/chin_sol.png)
 
-![](pic/deathp_opus.png)
+![](pic/death_opus.png)
 
 后期选择塑界底子的林野猎弓（极其昂贵）：
 
